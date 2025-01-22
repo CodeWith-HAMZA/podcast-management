@@ -58,9 +58,4 @@ Fully functional and visually appealing across all devices and screen sizes.
 - Optimized for performance and scalability.  
 - AI-driven functionalities for enhanced user experiences.  
 
----
-
-## 🛠️ Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+--- 
